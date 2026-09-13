@@ -14,7 +14,7 @@ Fast positions itself as a verifiable settlement infrastructure for payments, AI
 
 This review evaluates a narrower question:
 
-> Can an independent third party reproduce and verify the system's public verification claims using currently available public artifacts?
+Can an independent third party reproduce and verify the system's public verification claims using currently available public artifacts?
 
 During real-funds testing, the system's publicly exposed verification path repeatedly surfaced Verifier Quorum = 0, including inside execution payloads signed by users.
 
@@ -88,7 +88,7 @@ Wallet execution payload displaying Verifier Quorum = 0 before authorization.
 
 ### Public Statement
 Fast CTO Xiaohong Chen stated:
-> "Quorum = 0 simply means that no verifier signature is required."
+"Quorum = 0 simply means that no verifier signature is required."
 
 #### Screenshot 11
 `11-cto-quorum-zero.png`  
