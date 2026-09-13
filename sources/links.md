@@ -10,7 +10,9 @@ https://sign.fast.xyz/
 
 ## GitHub
 
-https://github.com/
+https://github.com/grosu/fast-wallet-audit-assets
+https://github.com/fastxyz
+
 
 ## Public Announcements
 
