@@ -8,6 +8,10 @@ https://app.fast.xyz/
 
 https://github.com/fastxyz
 
+https://x.com/fastxyz
+
+https://explorer.fast.xyz/
+
 ---
 
 ## Fast Sign
@@ -74,6 +78,8 @@ Section 3 — Verification Surface Consistency
 Public Explorer:
 
 https://explorer.fastset.xyz/
+
+https://explorer.fast.xyz/
 
 Referenced in:
 
