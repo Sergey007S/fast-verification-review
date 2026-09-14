@@ -27,7 +27,7 @@ Section 5 — Fast Sign
 
 ## Protocol Documentation
 
-https://docs.fast.xyz/api-reference/rest-api/models
+https://docs.fast.xyz
 
 Referenced in:
 - Verification Path Observation
@@ -48,7 +48,7 @@ Section 7 — UNTOLD / Rhuna Settlement Pilot
 
 ## Verifier Quorum Statement
 
-Public explanation provided by Fast CTO Xiaohong Chen:
+Public explanation provided by Fast CTO Xiaohong Chen regarding Verifier Quorum = 0.
 
 https://x.com/cxh93/status/2044588203978674587?s=20
 
@@ -62,6 +62,8 @@ Section 1 — Verifier Quorum = 0
 Source used for the observation that production wallet repositories are referenced as private.
 
 https://github.com/grosu/fast-wallet-audit-assets
+
+https://app.fast.xyz/
 
 Referenced in:
 Section 4 — Private Production Wallet
