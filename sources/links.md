@@ -66,7 +66,7 @@ https://app.fast.xyz/
 
 Fast Wallet Extension:
 
-https://chromewebstore.google.com/detail/fast-wallet/...
+https://chromewebstore.google.com/detail/fast-wallet/ghibjknldlhfffnckpencpcjbhefblbe
 
 Referenced in:
 Section 3 — Verification Surface Consistency
