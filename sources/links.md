@@ -24,7 +24,11 @@ https://x.com/fastxyz/status/2085667858395103529?s=20
 
 ## Wallet Documentation
 
-(add links)
+https://app.fast.xyz
+
+https://chromewebstore.google.com/detail/fast-wallet/ghibjknldlhfffnckpencpcjbhefblbe
+
+* *Note: No public technical documentation or source code is published for the Fast Wallet extension.
 
 ## Additional Sources
 
