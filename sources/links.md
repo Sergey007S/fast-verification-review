@@ -1,39 +1,81 @@
-# Links
+# Sources
 
-## Explorer
+## Verification Claims
 
-https://explorer.fastset.xyz/
+Fast ecosystem positioning and verification-related claims:
 
-## Fast Sign
-
-https://sign.fast.xyz/
-
-## GitHub
-
-https://github.com/grosu/fast-wallet-audit-assets
+https://app.fast.xyz/
 
 https://github.com/fastxyz
 
+---
 
-## Public Announcements
+## Fast Sign
 
-https://x.com/fastxyz/status/2098098140687806786?s=20
+Public verification claim:
 
-https://x.com/fastxyz/status/2085667858395103529?s=20
+https://sign.fast.xyz/
 
+Referenced in:
+Section 5 — Fast Sign
 
-## Wallet Documentation
+---
 
-https://app.fast.xyz
+## UNTOLD / Rhuna Settlement Pilot
 
-https://chromewebstore.google.com/detail/fast-wallet/ghibjknldlhfffnckpencpcjbhefblbe
+Public settlement-performance announcement:
 
-* *Note: No public technical documentation or source code is published for the Fast Wallet extension.
+https://x.com/fastxyz/status/2098098140687806786
 
-## Additional Sources
+Referenced in:
+Section 7 — UNTOLD / Rhuna Settlement Pilot
+
+---
+
+## Verifier Quorum Statement
+
+Public explanation provided by Fast CTO Xiaohong Chen:
+
+https://x.com/Sergey007S/status/1912150576802079134
+
+Referenced in:
+Section 1 — Verifier Quorum = 0
+
+---
+
+## Production Wallet Auditability
+
+Audit-assets repository referencing production wallet artifacts:
 
 https://github.com/grosu/fast-wallet-audit-assets
 
-https://github.com/grosu/skill-optimizer
+Referenced in:
+Section 4 — Private Production Wallet
 
-https://github.com/fastxyz/skill-optimizer
+---
+
+## Wallet Verification Surfaces
+
+Fast App:
+
+https://app.fast.xyz/
+
+Fast Wallet Extension:
+
+https://chromewebstore.google.com/detail/fast-wallet/...
+
+Referenced in:
+Section 3 — Verification Surface Consistency
+
+---
+
+## Explorer Observations
+
+Public Explorer:
+
+https://explorer.fastset.xyz/
+
+Referenced in:
+
+- Section 1 — Verifier Quorum = 0
+- Section 6 — Explorer Telemetry
