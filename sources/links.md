@@ -17,7 +17,10 @@ https://github.com/fastxyz
 
 ## Public Announcements
 
-(UNTOLD / Rhuna links)
+https://x.com/fastxyz/status/2098098140687806786?s=20
+
+https://x.com/fastxyz/status/2085667858395103529?s=20
+
 
 ## Wallet Documentation
 
@@ -25,4 +28,8 @@ https://github.com/fastxyz
 
 ## Additional Sources
 
-(add links)
+https://github.com/grosu/fast-wallet-audit-assets
+
+https://github.com/grosu/skill-optimizer
+
+https://github.com/fastxyz/skill-optimizer
