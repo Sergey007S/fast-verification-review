@@ -25,6 +25,16 @@ Section 5 — Fast Sign
 
 ---
 
+## Protocol Documentation
+
+https://docs.fast.xyz/api-reference/rest-api/models
+
+Referenced in:
+- Verification Path Observation
+- Protocol Architecture
+
+---
+
 ## UNTOLD / Rhuna Settlement Pilot
 
 Public settlement-performance announcement:
