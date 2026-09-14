@@ -49,7 +49,7 @@ Section 1 — Verifier Quorum = 0
 
 ## Production Wallet Auditability
 
-Audit-assets repository referencing production wallet artifacts:
+Source used for the observation that production wallet repositories are referenced as private.
 
 https://github.com/grosu/fast-wallet-audit-assets
 
