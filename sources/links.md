@@ -36,7 +36,7 @@ Section 7 — UNTOLD / Rhuna Settlement Pilot
 
 Public explanation provided by Fast CTO Xiaohong Chen:
 
-https://x.com/Sergey007S/status/1912150576802079134
+https://x.com/cxh93/status/2044588203978674587?s=20
 
 Referenced in:
 Section 1 — Verifier Quorum = 0
