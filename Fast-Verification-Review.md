@@ -78,8 +78,7 @@ During the seed-phrase wallet flow, transaction authorization occurs in two step
 The execution payload explicitly displays:
 `Verifier Quorum = 0`
 
-#### Screenshot 01
-`01-explorer-quorum-zero.png`  
+#### ![Screenshot 01](evidence/01-explorer-quorum-zero.png)
 Explorer displaying Verifier Quorum = 0 on External Claims.
 
 #### Screenshot 02
