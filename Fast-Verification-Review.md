@@ -260,6 +260,7 @@ bridgeless settlement behavior;
 asset parity guarantees;
 cross-chain balance consistency;
 reported settlement latency.
+
 Screenshot 12
 
 12-allset-asset-parity-claims.png
