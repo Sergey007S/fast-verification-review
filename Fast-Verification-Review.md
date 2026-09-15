@@ -234,7 +234,50 @@ What public methodology allows independent reproduction of:
 
 ---
 
-## 7. UNTOLD / Rhuna Settlement Pilot
+7. AllSet Asset Parity and Settlement Claims
+Claim
+
+Fast publicly describes AllSet as:
+
+a universal liquidity hub;
+bridgeless settlement;
+true asset parity;
+a unified USDC balance across supported chains;
+approximately 0.25 ms settlement.
+Observation
+
+The public announcement does not provide:
+
+settlement datasets;
+asset parity validation datasets;
+reproducible settlement procedures;
+independent verification instructions;
+benchmark artifacts supporting the reported figures.
+
+As a result, an external researcher cannot independently reproduce or validate:
+
+bridgeless settlement behavior;
+asset parity guarantees;
+cross-chain balance consistency;
+reported settlement latency.
+Screenshot 11
+
+12-allset-asset-parity-claims.png
+
+AllSet announcement describing bridgeless settlement, asset parity, and cross-chain USDC balance functionality.
+
+Open Question
+
+What public artifacts allow an external researcher to independently verify:
+
+bridgeless settlement;
+true asset parity;
+cross-chain balance consistency;
+the reported ~0.25 ms settlement claim?
+
+---
+
+## 8. UNTOLD / Rhuna Settlement Pilot
 
 ### Claim
 Fast reported:
