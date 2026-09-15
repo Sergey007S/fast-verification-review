@@ -14,11 +14,11 @@ Fast CTO Xiaohong Chen publicly stated:
 Referenced in:
 Section 1 — Verifier Quorum = 0
 
-21 April 2026
+21 May 2026
 
 Roberto Rosmaninho responded publicly and invited further discussion through direct messages.
 
-25 May 2026
+26 May 2026
 
 Observation #1 submitted privately to the Fast team.
 
