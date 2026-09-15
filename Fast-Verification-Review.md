@@ -137,6 +137,8 @@ User can observe:
 
 Equivalent verification artifacts are not exposed.
 
+The relationship between these access models and the underlying custody architecture is not described within the scope of this review.
+
 #### Screenshot 05
 `05-google-app-flow.png`  
 Fast App onboarding flow offering passkey and Google-based authentication.
