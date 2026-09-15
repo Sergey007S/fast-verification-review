@@ -81,16 +81,14 @@ The execution payload explicitly displays:
 #### ![Screenshot 01](evidence/01-explorer-quorum-zero.png)
 Explorer displaying Verifier Quorum = 0 on External Claims.
 
-#### Screenshot 02
-`02-wallet-quorum-zero.png`  
+#### ![Screenshot 02](evidence/02-wallet-quorum-zero.png)
 Wallet execution payload displaying Verifier Quorum = 0 before authorization.
 
 ### Public Statement
 Fast CTO Xiaohong Chen stated:
 "Quorum = 0 simply means that no verifier signature is required."
 
-#### Screenshot 11
-`11-cto-quorum-zero.png`  
+#### ![Screenshot 11](evidence/11-cto-quorum-zero.png)
 Public CTO explanation of Quorum = 0.
 
 ### Open Question
@@ -105,8 +103,7 @@ The seed-phrase wallet asks users to authorize execution payloads that are not f
 
 Critical settlement details are not consistently exposed in a form that allows independent validation before signing.
 
-#### Screenshot 03
-`03-wallet-execution-payload.png`  
+#### ![Screenshot 03](evidence/03-wallet-execution-payload.png)
 Raw execution payload shown during authorization.
 
 ### Open Question
@@ -125,8 +122,7 @@ User can observe:
 - claim requests;
 - verifier quorum information.
 
-#### Screenshot 04
-`04-seed-wallet-flow.png`  
+#### ![Screenshot 04](evidence/04-seed-wallet-flow.png)
 Fast wallet recovery flow showing import via recovery phrase or private key.
 
 #### Fast App (Google login)
@@ -138,8 +134,7 @@ Equivalent verification artifacts are not exposed.
 
 The relationship between these access models and the underlying custody architecture is not described within the scope of this review.
 
-#### Screenshot 05
-`05-google-app-flow.png`  
+#### ![Screenshot 05](evidence/05-google-app-flow.png)
 Fast App onboarding flow offering passkey and Google-based authentication.
 
 ### Assessment
@@ -159,8 +154,7 @@ The referenced documentation explicitly mentions:
 `fast-wallet (production)`  
 as a private repository.
 
-#### Screenshot 06
-`06-private-wallet-repo.png`  
+#### ![Screenshot 06](evidence/06-private-wallet-repo.png)
 README referencing private production wallet repositories.
 
 ### Open Question
@@ -190,8 +184,7 @@ It does not independently establish:
 - verifier participation;
 - protocol correctness.
 
-#### Screenshot 07
-`07-fast-sign-anyone-can-verify.png`  
+#### ![Screenshot 07](evidence/07-fast-sign-anyone-can-verify.png)
 Fast Sign interface and verification workflow.
 
 ### Assessment
@@ -211,8 +204,7 @@ Repeated claims where:
 `sender = recipient`  
 were observable in the public transaction stream.
 
-#### Screenshot 08
-`08-external-claim-from-to.png`  
+#### ![Screenshot 08](evidence/08-external-claim-from-to.png)
 External Claims with identical sender and recipient.
 
 #### Volume Metrics
@@ -223,8 +215,7 @@ The explorer simultaneously displayed:
 #### Throughput Metrics
 Peak TPS = 481 was displayed on the explorer and independently referenced in the UNTOLD announcement.
 
-#### Screenshot 09
-`09-total-vs-24h.png`  
+#### ![Screenshot 09](evidence/09-total-vs-24h.png)
 Explorer metrics showing Total Transactions, TXs 24H and Peak TPS.
 
 ### Open Question
@@ -262,9 +253,7 @@ asset parity guarantees;
 cross-chain balance consistency;
 reported settlement latency.
 
-Screenshot 12
-
-12-allset-asset-parity-claims.png
+#### ![Screenshot 12](evidence/12-allset-asset-parity-claims.png)
 
 AllSet announcement describing bridgeless settlement, asset parity, and cross-chain USDC balance functionality.
 
@@ -297,8 +286,8 @@ The public announcement does not provide:
 
 allowing independent validation of the published figures.
 
-#### Screenshot 10
-`10-untold-announcement.png`  
+#### ![Screenshot 10](evidence/10-untold-announcement.png)
+
 UNTOLD / Rhuna settlement announcement and CLI graphic.
 
 ### Open Question
