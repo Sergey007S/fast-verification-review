@@ -24,8 +24,8 @@ Observation #1 submitted privately to the Fast team.
 
 15 June 2026
 
-Follow-up request sent regarding the submitted observations.
-No further technical response was received after this point.
+Follow-up request sent regarding the submitted observations. 
+No further technical clarification was received after this point.
 
 23 June 2026
 
