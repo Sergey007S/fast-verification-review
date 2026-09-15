@@ -128,7 +128,7 @@ User can observe:
 
 #### Screenshot 04
 `04-seed-wallet-flow.png`  
-Seed wallet authorization flow.
+Fast wallet recovery flow showing import via recovery phrase or private key.
 
 #### Fast App (Google login)
 User can observe:
@@ -139,7 +139,7 @@ Equivalent verification artifacts are not exposed.
 
 #### Screenshot 05
 `05-google-app-flow.png`  
-Google-login Fast App transaction flow.
+Fast App onboarding flow offering passkey and Google-based authentication.
 
 ### Assessment
 Verification transparency currently depends on the client used rather than on a protocol-level verification interface.
