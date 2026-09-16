@@ -209,8 +209,8 @@ External Claims with identical sender and recipient.
 
 #### Volume Metrics
 The explorer simultaneously displayed:
-- Total Transactions = 25.8M
-- TXs 24H = 25.8M
+- Total Transactions = 27.6M
+- TXs 24H = 27.6M
 
 #### Throughput Metrics
 Peak TPS = 481 was displayed on the explorer and independently referenced in the UNTOLD announcement.
